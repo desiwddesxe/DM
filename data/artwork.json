@@ -1,0 +1,470 @@
+[
+  {
+    "id": 0,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/00.jpg",
+    "thumb": "/images/artwork/thumbs/00.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/00.jpg",
+    "title": "Props / Set Design Daniela Marangon",
+    "mediumImage": {
+      "src": "/images/artwork/small/00.jpg",
+      "w": 640,
+      "h": 426
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/00.jpg",
+      "w": 1200,
+      "h": 800
+    }
+  },
+  {
+    "id": 1,
+    "grid": 2,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/01.jpg",
+    "thumb": "/images/artwork/thumbs/01.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/01.jpg",
+    "title": "Props / Set Design Daniela Marangon",
+    "mediumImage": {
+      "src": "/images/artwork/small/01.jpg",
+      "w": 640,
+      "h": 426
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/01.jpg",
+      "w": 1200,
+      "h": 800
+    }
+  },
+  {
+    "id": 2,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/02.jpg",
+    "thumb": "/images/artwork/thumbs/02.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/02.jpg",
+    "title": "Foto Pietro scordo per Marieclaire Italia, editor Giulia Foroni, concept set e ricerca props Daniela Marangon",
+    "mediumImage": {
+      "src": "/images/artwork/small/02.jpg",
+      "w": 640,
+      "h": 426
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/02.jpg",
+      "w": 1200,
+      "h": 800
+    }
+  },
+  {
+    "id": 3,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/03.jpg",
+    "thumb": "/images/artwork/thumbs/03.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/03.jpg",
+    "title": "Foto Pietro scordo per marieclaire italia, editor Giulia Foroni, concept set e ricerca props Daniela Marangon",
+    "mediumImage": {
+      "src": "/images/artwork/small/03.jpg",
+      "w": 640,
+      "h": 426
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/03.jpg",
+      "w": 1200,
+      "h": 800
+    }
+  },
+  {
+    "id": 4,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/04.jpg",
+    "thumb": "/images/artwork/thumbs/04.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/04.jpg",
+    "title": "Artwork Daniela Marangon, foto Pietro Scordo Vanity fair",
+    "mediumImage": {
+      "src": "/images/artwork/small/04.jpg",
+      "w": 640,
+      "h": 445
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/04.jpg",
+      "w": 1200,
+      "h": 836
+    }
+  },
+  {
+    "id": 5,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/05.jpg",
+    "thumb": "/images/artwork/thumbs/05.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/05.jpg",
+    "title": "Artwork Daniela Marangon, foto Pietro Scordo Vanity fair",
+    "mediumImage": {
+      "src": "/images/artwork/small/05.jpg",
+      "w": 640,
+      "h": 439
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/05.jpg",
+      "w": 1200,
+      "h": 824
+    }
+  },
+  {
+    "id": 6,
+    "grid": 2,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/06.jpg",
+    "thumb": "/images/artwork/thumbs/06.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/06.jpg",
+    "title": "Photographer Pietro Scordo",
+    "mediumImage": {
+      "src": "/images/artwork/small/06.jpg",
+      "w": 640,
+      "h": 436
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/06.jpg",
+      "w": 1200,
+      "h": 818
+    }
+  },
+  {
+    "id": 7,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/07.jpg",
+    "thumb": "/images/artwork/thumbs/07.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/07.jpg",
+    "title": "Photographer Pietro Scordo",
+    "mediumImage": {
+      "src": "/images/artwork/small/07.jpg",
+      "w": 471,
+      "h": 640
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/07.jpg",
+      "w": 883,
+      "h": 1200
+    }
+  },
+  {
+    "id": 8,
+    "grid": 2,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/08.jpg",
+    "thumb": "/images/artwork/thumbs/08.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/08.jpg",
+    "title": "Set design Daniela Marangon, foto Pietro Scordo, Marieclaire/Dicembre 2016",
+    "mediumImage": {
+      "src": "/images/artwork/small/08.jpg",
+      "w": 640,
+      "h": 432
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/08.jpg",
+      "w": 1200,
+      "h": 811
+    }
+  },
+  {
+    "id": 9,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/09.jpg",
+    "thumb": "/images/artwork/thumbs/09.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/09.jpg",
+    "title": "Set design Daniela Marangon, foto Pietro Scordo, Marieclaire/Dicembre 2016",
+    "mediumImage": {
+      "src": "/images/artwork/small/09.jpg",
+      "w": 640,
+      "h": 429
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/09.jpg",
+      "w": 1200,
+      "h": 805
+    }
+  },
+  {
+    "id": 10,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/10.jpg",
+    "thumb": "/images/artwork/thumbs/10.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/10.jpg",
+    "title": "Set design Daniela Marangon, foto Pietro Scordo",
+    "mediumImage": {
+      "src": "/images/artwork/small/10.jpg",
+      "w": 640,
+      "h": 426
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/10.jpg",
+      "w": 1200,
+      "h": 800
+    }
+  },
+  {
+    "id": 11,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/11.jpg",
+    "thumb": "/images/artwork/thumbs/11.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/11.jpg",
+    "title": "Set design Daniela Marangon, foto Pietro Scordo, Marieclaire/Ottobre 2016",
+    "mediumImage": {
+      "src": "/images/artwork/small/11.jpg",
+      "w": 640,
+      "h": 426
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/11.jpg",
+      "w": 1200,
+      "h": 800
+    }
+  },
+  {
+    "id": 12,
+    "grid": 2,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/12.jpg",
+    "thumb": "/images/artwork/thumbs/12.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/12.jpg",
+    "title": "Photographer Pietro Scordo",
+    "mediumImage": {
+      "src": "/images/artwork/small/12.jpg",
+      "w": 640,
+      "h": 424
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/12.jpg",
+      "w": 1200,
+      "h": 795
+    }
+  },
+  {
+    "id": 13,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/13.jpg",
+    "thumb": "/images/artwork/thumbs/13.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/13.jpg",
+    "title": "Photographer Pietro Scordo",
+    "mediumImage": {
+      "src": "/images/artwork/small/13.jpg",
+      "w": 640,
+      "h": 424
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/13.jpg",
+      "w": 1200,
+      "h": 795
+    }
+  },
+  {
+    "id": 14,
+    "grid": 2,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/14.jpg",
+    "thumb": "/images/artwork/thumbs/14.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/14.jpg",
+    "title": "Photographer Pietro Scordo: glamour/carte novembre 2014",
+    "mediumImage": {
+      "src": "/images/artwork/small/14.jpg",
+      "w": 640,
+      "h": 153
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/14.jpg",
+      "w": 1761,
+      "h": 800
+    }
+  },
+  {
+    "id": 15,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/15.jpg",
+    "thumb": "/images/artwork/thumbs/15.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/15.jpg",
+    "title": "Photographer Studio Aghata: marie claire fiori/food speciale estate 2015",
+    "mediumImage": {
+      "src": "/images/artwork/small/15.jpg",
+      "w": 471,
+      "h": 640
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/15.jpg",
+      "w": 883,
+      "h": 1200
+    }
+  },
+  {
+    "id": 16,
+    "grid": 2,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/16.jpg",
+    "thumb": "/images/artwork/thumbs/16.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/16.jpg",
+    "title": "Photographer Pietro Scordo: glamour/carte novembre 2014",
+    "mediumImage": {
+      "src": "/images/artwork/small/16.jpg",
+      "w": 640,
+      "h": 487
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/16.jpg",
+      "w": 1200,
+      "h": 913
+    }
+  },
+  {
+    "id": 17,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/17.jpg",
+    "thumb": "/images/artwork/thumbs/17.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/17.jpg",
+    "title": "Photographer Studio Aghata: marie claire arte speciale aut-inv 2015",
+    "mediumImage": {
+      "src": "/images/artwork/small/17.jpg",
+      "w": 640,
+      "h": 430
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/17.jpg",
+      "w": 1200,
+      "h": 806
+    }
+  },
+  {
+    "id": 18,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/18.jpg",
+    "thumb": "/images/artwork/thumbs/18.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/18.jpg",
+    "title": "Set design Daniela Marangon, foto Pietro Scordo, cover collana Oscar Fantastica Mondadori",
+    "mediumImage": {
+      "src": "/images/artwork/small/18.jpg",
+      "w": 597,
+      "h": 640
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/18.jpg",
+      "w": 1119,
+      "h": 1200
+    }
+  },
+  {
+    "id": 19,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/19.jpg",
+    "thumb": "/images/artwork/thumbs/19.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/19.jpg",
+    "title": "Set design Daniela Marangon, foto Pietro Scordo, cover collana Oscar Fantastica Mondadori",
+    "mediumImage": {
+      "src": "/images/artwork/small/19.jpg",
+      "w": 596,
+      "h": 640
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/19.jpg",
+      "w": 1118,
+      "h": 1200
+    }
+  },
+  {
+    "id": 20,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/20.jpg",
+    "thumb": "/images/artwork/thumbs/20.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/20.jpg",
+    "title": "Artwork Daniela Marangon, foto Pietro Scordo Vanity fair",
+    "mediumImage": {
+      "src": "/images/artwork/small/20.jpg",
+      "w": 640,
+      "h": 227
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/20.jpg",
+      "w": 2256,
+      "h": 800
+    }
+  },
+  {
+    "id": 21,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/21.jpg",
+    "thumb": "/images/artwork/thumbs/21.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/21.jpg",
+    "title": "Photographer Enzo Truoccolo",
+    "mediumImage": {
+      "src": "/images/artwork/small/21.jpg",
+      "w": 640,
+      "h": 339
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/21.jpg",
+      "w": 1200,
+      "h": 636
+    }
+  },
+  {
+    "id": 22,
+    "grid": 2,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/22.jpg",
+    "thumb": "/images/artwork/thumbs/22.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/22.jpg",
+    "title": "Photographer Pietro Scordo",
+    "mediumImage": {
+      "src": "/images/artwork/small/22.jpg",
+      "w": 640,
+      "h": 424
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/22.jpg",
+      "w": 1200,
+      "h": 795
+    }
+  },
+  {
+    "id": 23,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/23.jpg",
+    "thumb": "/images/artwork/thumbs/23.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/23.jpg",
+    "title": "Photographer Pietro Scordo",
+    "mediumImage": {
+      "src": "/images/artwork/small/23.jpg",
+      "w": 640,
+      "h": 424
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/23.jpg",
+      "w": 1200,
+      "h": 795
+    }
+  },
+  {
+    "id": 24,
+    "grid": 2,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/24.jpg",
+    "thumb": "/images/artwork/thumbs/24.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/24.jpg",
+    "title": "Photographer Pietro Scordo",
+    "mediumImage": {
+      "src": "/images/artwork/small/24.jpg",
+      "w": 516,
+      "h": 640
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/24.jpg",
+      "w": 967,
+      "h": 1200
+    }
+  },
+  {
+    "id": 25,
+    "grid": 1,
+    "thumbPlaceholder": "/images/artwork/thumbs-placeholder/25.jpg",
+    "thumb": "/images/artwork/thumbs/25.jpg",
+    "thumb2x": "/images/artwork/thumbs/2x/25.jpg",
+    "title": "Photographer Pietro Scordo",
+    "mediumImage": {
+      "src": "/images/artwork/small/25.jpg",
+      "w": 521,
+      "h": 640
+    },
+    "originalImage": {
+      "src": "/images/artwork/large/25.jpg",
+      "w": 946,
+      "h": 1161
+    }
+  }
+]

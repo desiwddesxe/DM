@@ -20,7 +20,7 @@
       "w": 640,
       "h": 426
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/00.jpg",
       "w": 1200,
       "h": 800
@@ -47,7 +47,7 @@
       "w": 640,
       "h": 426
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/01.jpg",
       "w": 1200,
       "h": 800
@@ -74,7 +74,7 @@
       "w": 640,
       "h": 426
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/02.jpg",
       "w": 1200,
       "h": 800
@@ -101,7 +101,7 @@
       "w": 640,
       "h": 426
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/03.jpg",
       "w": 1200,
       "h": 800
@@ -128,7 +128,7 @@
       "w": 640,
       "h": 445
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/04.jpg",
       "w": 1200,
       "h": 836
@@ -155,7 +155,7 @@
       "w": 640,
       "h": 439
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/05.jpg",
       "w": 1200,
       "h": 824
@@ -182,7 +182,7 @@
       "w": 640,
       "h": 436
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/06.jpg",
       "w": 1200,
       "h": 818
@@ -209,7 +209,7 @@
       "w": 471,
       "h": 640
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/07.jpg",
       "w": 883,
       "h": 1200
@@ -236,7 +236,7 @@
       "w": 640,
       "h": 432
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/08.jpg",
       "w": 1200,
       "h": 811
@@ -263,7 +263,7 @@
       "w": 640,
       "h": 429
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/09.jpg",
       "w": 1200,
       "h": 805
@@ -290,7 +290,7 @@
       "w": 640,
       "h": 426
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/10.jpg",
       "w": 1200,
       "h": 800
@@ -317,7 +317,7 @@
       "w": 640,
       "h": 426
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/11.jpg",
       "w": 1200,
       "h": 800
@@ -344,7 +344,7 @@
       "w": 640,
       "h": 424
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/12.jpg",
       "w": 1200,
       "h": 795
@@ -371,7 +371,7 @@
       "w": 640,
       "h": 424
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/13.jpg",
       "w": 1200,
       "h": 795
@@ -398,7 +398,7 @@
       "w": 640,
       "h": 153
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/14.jpg",
       "w": 1761,
       "h": 800
@@ -425,7 +425,7 @@
       "w": 471,
       "h": 640
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/15.jpg",
       "w": 883,
       "h": 1200
@@ -452,7 +452,7 @@
       "w": 640,
       "h": 487
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/16.jpg",
       "w": 1200,
       "h": 913
@@ -479,7 +479,7 @@
       "w": 640,
       "h": 430
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/17.jpg",
       "w": 1200,
       "h": 806
@@ -506,7 +506,7 @@
       "w": 597,
       "h": 640
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/18.jpg",
       "w": 1119,
       "h": 1200
@@ -533,7 +533,7 @@
       "w": 596,
       "h": 640
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/19.jpg",
       "w": 1118,
       "h": 1200
@@ -560,7 +560,7 @@
       "w": 640,
       "h": 227
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/20.jpg",
       "w": 2256,
       "h": 800
@@ -587,7 +587,7 @@
       "w": 640,
       "h": 339
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/21.jpg",
       "w": 1200,
       "h": 636
@@ -614,7 +614,7 @@
       "w": 640,
       "h": 424
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/22.jpg",
       "w": 1200,
       "h": 795
@@ -641,7 +641,7 @@
       "w": 640,
       "h": 424
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/23.jpg",
       "w": 1200,
       "h": 795
@@ -668,7 +668,7 @@
       "w": 516,
       "h": 640
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/24.jpg",
       "w": 967,
       "h": 1200
@@ -695,7 +695,7 @@
       "w": 521,
       "h": 640
     },
-    "originalImage": {
+    "largeImage": {
       "src": "/images/artwork/large/25.jpg",
       "w": 946,
       "h": 1161
